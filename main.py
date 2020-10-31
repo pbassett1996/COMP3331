@@ -1,5 +1,6 @@
 def main(msg):
-    #print a message
+    # A different comment
+    # print a message
     print(msg)
 
 main("Hello world")
